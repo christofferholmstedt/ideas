@@ -1,10 +1,11 @@
 Repository with ideas for applications
 ======================================
-At my blog I wrote in february 2013 about "14 days and 5 ideas". Most of us
-developers thinks of new ideas each day or even each hour when we go on
+At my blog [I wrote in february 2013 about "14 days and 5
+ideas"](http://www.chho.se/2013/02/17/you-must-be-willing-to-die-for-it/).
+Most of us developers thinks of new ideas each day or even each hour when we go on
 with our everyday life. Most of these ideas never turn into something real.
 
-The process to pick those few that are worth the time to develop is hard 
+The process to pick those few that are worth the time to develop is hard
 because you don't know if it really solves a problem or not. I believe you need
 some structure to identify your best ideas. A few developers write about
 "You must be willing to die for it" and I like that way of thinking, unless
