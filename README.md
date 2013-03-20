@@ -20,3 +20,8 @@ The purpose with those two rules are
   1. Start only with the ideas that you really think you will find useful
   2. Try to create a running program ASAP and don't spend too much time making
 the perfect design.
+
+### What will this project include
+This git/github project will include all my ideas I come to think of and within
+each idea description I will try to keep track for how many days straight I
+think of it.
