@@ -11,3 +11,7 @@ time it is the virtual friend should block/allow specific websites.
 ##### Short ideas
   * Allow webemail between 8-9 and 16-17.
   * Allow facebook all hours except 8-12 and 13-17.
+
+##### Similiar working applications
+  * [Blocksite Firefox
+    add-on](https://addons.mozilla.org/en-US/firefox/addon/blocksite/)
