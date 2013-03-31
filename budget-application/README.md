@@ -10,7 +10,7 @@ of transactions.
   2. Summarise transactions by different timespans (at least monthly)
   3. Categories/tag transactions
   4. Be able to summarise by categories and tags
-  5. You can create a budget, categories returning transactions, after a month
+  5. You can create a budget, categories recurring transactions, after a month
      or two the application can suggest a new budget from previous months.
 
 ##### Main though about categories and tags
