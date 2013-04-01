@@ -1,5 +1,5 @@
-Webbrowser-plugins
-==================
+Blocksite plugin
+================
 
 ### Blocksite depending on current time
   * As a developer you sit in front of the computer for many hours straight.
