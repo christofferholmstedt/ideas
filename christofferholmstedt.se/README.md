@@ -18,6 +18,8 @@ both languages and some only in one.
 2) Ada
 3) WordPress
 4) Running
+5) Daily dose of research (one daily report from arxiv.org) important that all
+    recommended reports are public for everyone to read.
 
 ##### Food and its substances
 During a week I buy and eat several different "food products" produced by a
