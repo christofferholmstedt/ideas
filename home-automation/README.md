@@ -17,12 +17,26 @@ http://www.openhomeautomation.net
 
 ### Actuators
 1. Wireless light switch.
+2. Dimmer for lights.
 
 ### Bigger projects
 Sensors and actuators are fun, especially when the goal is to make them as
 energy effecient as possible so they can run on small batteries for years.
 Though at some point you need to make something out of all
 sensors/actuators, this is when the "bigger projects" tie everything together.
+
+##### Sleep control
+Different things such as what you have been doing and what you have been
+eating/drinking during the day effects how well you sleep. The goal with this
+application is to suggest improvements to your daily routines and help you
+control the home with the main goal to improve sleep.
+
+With mesaurements on how well you sleep and when you go to bed the lights can
+be dimmed in reasonable amount of time before it's time for sleep.
+Notifications can be sent to various devices to tell you that it's now time to
+turn off. As a concrete example it's pretty bad to brush your teeth in a bright
+lit room when the light could be dimmed to not effect your body before sleep.
+(Watch this: http://www.ted.com/talks/russell\_foster\_why\_do\_we\_sleep)
 
 ##### One entertainment system for entire home
 Be able to simple add and remove speakers as well as sound/video sources to the
