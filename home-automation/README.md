@@ -55,3 +55,13 @@ online?
 1. Web server accessible both from home and away from home.
 2. Web interface so it's accessible from all kinds of devices. (At home while
    planning or at the store while shopping).
+
+##### Air quality
+Air quality measurments in all rooms measuring temperature, CO2 could be
+combined with fire alarms. At least one outside as well to compare the air
+quality, if it's bad outside it won't be better inside.
+
+This could also be used to measure sudden drops in temperature outside and how
+long it takes to adjust the indoor temperature in big buildings.
+
+Sound sensors in stereo could be used to measure/count cars passing by outside.
