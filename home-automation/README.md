@@ -65,3 +65,9 @@ This could also be used to measure sudden drops in temperature outside and how
 long it takes to adjust the indoor temperature in big buildings.
 
 Sound sensors in stereo could be used to measure/count cars passing by outside.
+
+##### Audio and visual system
+Any mobile or "stationary" device with speakers, microphone and/or display
+should be able to play, record and/or show audio and video seamlessly. This
+should be possible in a peer-to-peer fashion, any device can be faucet and any
+device can be sink.
